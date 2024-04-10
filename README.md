@@ -8,7 +8,7 @@ A line follower bot is a type of autonomous robotic vehicle designed to follow a
 
 Line follower bots are popular in robotics competitions and educational settings, as they provide an engaging way to introduce students and enthusiasts to basic robotics principles, sensor technology, and programming. They serve as a fundamental example of closed-loop control systems and can be customized with various features, like obstacle avoidance and speed adjustments, to make them more versatile and adaptable to different scenarios. Line follower bots can be a great starting point for those interested in exploring the world of robotics and automation.
 
-A PID Line Follower Bot using an ESP32 Microcontroller is a small autonomous robot that uses infrared sensors to follow a designated path. It employs a PID (Proportional-Integral-Derivative) control algorithm to continuously adjust its motor speeds based on sensor feedback, maintaining alignment with the path. The Pico microcontroller processes the sensor data and sends control signals to the motors, allowing the bot to track lines, it is a popular choice for educational robotics projects and competitions.
+A PID Line Follower Bot using an ESP32 Microcontroller is a small autonomous robot that uses infrared sensors to follow a designated path. It employs a PID (Proportional-Integral-Derivative) control algorithm to continuously adjust its motor speeds based on sensor feedback, maintaining alignment with the path. The ESP32 microcontroller processes the sensor data and sends control signals to the motors, allowing the bot to track lines, it is a popular choice for educational robotics projects and competitions.
 
 ## LFR Images
 
